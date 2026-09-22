@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5cf5971f2153ca8b79838179",
+  "owner": "regrmu",
+  "repo": "page-a7c4f56ef31ccad5bb4d81ff",
+  "title": "Zero云(Zero)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a7c4f56ef31ccad5bb4d81ff",
+      "a": "Zero云(Zero)",
+      "b": "2027官方最新地址导航",
+      "entity": "Zero云(Zero)",
+      "brand": "Zero云(Zero)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "90b7988e824e6102d5cfea742b18f8c9ece4e9fb3a8f3ccf4aa25f60119064c1",
+      "content": {
+        "primary_entity": "Zero云(Zero)",
+        "keyword1": "Zero云(Zero)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：手机、桌面与路由器各有适配方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "从基础版到团队版，按设备数量与流量选一份订阅，参照客户端文档导入即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，开始连接",
+          "AI_DESCRIPTION": "，Zero云提供基础版、旗舰版与团队版三档订阅，月付分别 ¥15、¥35、¥85，按年付为 ¥150、¥350、¥850。流量从每月 100GB 到 1000GB，在线设备从 3 台到 20 台，旗舰版含 IPLC 专线游戏加速，团队版支持企业定制路由与专属客户经理。",
+          "AI_FEATURES_INTRO": "流量、设备数量与线路类型决定订阅选择，三档方案覆盖轻量到团队场景。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "月付 ¥15 至 ¥85，年付为 ¥150、¥350、¥850，按使用周期选更划算的方案。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数量匹配订阅。",
+          "AI_FEATURE_TEXT_3": "基础版走普通节点池，旗舰版含 IPLC 专线游戏加速，团队版提供 VIP 高带宽节点。",
+          "AI_FEATURE_TITLE_1": "月付与年付",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "线路类型差异",
+          "AI_GUIDE_INTRO": "先确认设备数量与所需流量，再对照套餐权益完成选择。",
+          "AI_GUIDE_TITLE": "选择与配置流程",
+          "AI_HERO_INTRO": "Zero云面向海外网络加速场景，提供基础版、旗舰版与团队版三档订阅。流量从每月 100GB 到 1000GB，在线设备从 3 台到 20 台，可按月付或年付，旗舰版与团队版附带专线、高带宽节点等权益。",
+          "AI_HERO_SUBTITLE": "Zero云海外加速，三档订阅按需选",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 与 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，1000GB 流量",
+          "AI_PLANS_INTRO": "对比三档订阅的流量、设备数量与线路权益，按实际使用规模选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按月度流量需求与常用设备数量，从基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TEXT_2": "核对所选套餐的在线设备上限、节点类型与是否含专线加速权益。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅，完成手机、桌面或路由器端的配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "Zero云海外加速订阅",
+          "AI_FAQ_ANSWER_1": "在 Zero云用户中心复制订阅链接，粘贴到 Clash Verge 或 Shadowrocket 等客户端的订阅导入框中即可完成配置。",
+          "AI_FAQ_ANSWER_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，超出后旧设备会被挤下线，可按需在用户中心升级套餐。",
+          "AI_FAQ_ANSWER_3": "旗舰版带有 IPLC 专线节点，在游戏与实时通话场景下延迟表现更稳定，基础版使用普通线路节点池。",
+          "AI_FAQ_ANSWER_4": "各档套餐均列出月付价与年付价，全年高频使用者选年付更划算，轻度用户可先按月付试用。",
+          "AI_FAQ_ANSWER_5": "套餐变更从用户中心进入订阅管理即可，升级后新流量额度当期生效，系统按剩余周期折算差价。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Zero云订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_2": "不同套餐允许几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选比较划算？",
+          "AI_FAQ_QUESTION_5": "套餐可以随时升级吗？",
+          "AI_FAQ_TITLE": "套餐与使用问答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fpkpeyu.cn",
+    "host": "fpkpeyu.cn"
+  },
+  "file_hashes": {
+    "index.html": "669b42ddb7fe94a855574d0b0d4fcd2eeee9398c6e8df990346a9cc61df0d7fb",
+    "sitemap.xml": "9483df3defd3c538bd77a6576e898883c0db6210210be27092cca26724fd7afa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "664d3885a17ac118f996c1890641a420b1244afc9a28ea2c68f81abe08b81c4f",
+    "robots.txt": "86379a7f708abf4231054018096fe0c2214813c55c6dd9aa02fa0e15ba76183e",
+    "13577e6fe3f02437e2a63f1ede1ed132.txt": "7987bb48a477ccdd63cc952a759ad062b86a0ae44be1a52df5022f31e306f74f"
+  },
+  "revision": "6473f81ef6b5441e4cafa6148eef437093624f3918c4d100c1b34522e2b281b9"
+}
